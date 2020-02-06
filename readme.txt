@@ -1,7 +1,1 @@
-1) USE ANY COMMAND ORSHELL PROGRAM, IT DISPLAYS OUTP[UT THIOS SHOULD BE RECAPTURED BY YOUR PROGRAM
-THINGS TO SUBMIT:
-DESIGN DOCUMENT 
-CODE 
-A.OUT - to this u should submit the output of a shell command
-
-2) 
+A program that mimics the tree command of linux shell. Implemented using Unix system calls.
